@@ -12,4 +12,6 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-obsession'
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-vinegar'
+
+Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
