@@ -15,3 +15,5 @@ Plug 'tpope/vim-vinegar'
 
 Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
+
+nnoremap <C-P> :Ggrep 
