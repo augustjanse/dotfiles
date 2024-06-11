@@ -18,3 +18,5 @@ Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
 
 nnoremap <C-P> :Ggrep 
+
+set background=dark
