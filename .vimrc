@@ -20,3 +20,5 @@ call plug#end()
 nnoremap <C-P> :Ggrep 
 
 set background=dark
+
+set directory^=$HOME/.vim/swapfiles//
